@@ -4,6 +4,7 @@
 Title: Intro to Media Queries<br>
 Type: Morning Exercise<br>
 Creator: Jerrica Bobadilla<br>
+Adapted: Jerrica Bobad, Kenneth Cruz SEI-826<br>
 Competencies: CSS, HTML
 
 ---
