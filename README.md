@@ -1,14 +1,5 @@
 ![](/ga_cog.png)
 
----
-Title: Intro to Media Queries<br>
-Type: Morning Exercise<br>
-Creator: Jerrica Bobadilla<br>
-Adapted: Jerrica Bobad, Kenneth Cruz SEI-826<br>
-Competencies: CSS, HTML
-
----
-
 # Intro to Media Queries & Responsive Design
 
 As technology has improved rapidly over the years, allowing for varying screen sizes ranging from a wide desktop monitor all the way down to a slim smartphone screen, web developers have come across the issue of having to make their apps/sites responsive. Or, in other words, having to make things look good and be functional no matter what kind of size screen the user has. While using variable widths and utilizing things like flexbox makes that easier, sometimes it's just not enough. This is where media queries come in handy. 
