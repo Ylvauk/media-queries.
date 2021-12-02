@@ -4,6 +4,17 @@
 
 As technology has improved rapidly over the years, allowing for varying screen sizes ranging from a wide desktop monitor all the way down to a slim smartphone screen, web developers have come across the issue of having to make their apps/sites responsive. Or, in other words, having to make things look good and be functional no matter what kind of size screen the user has. While using variable widths and utilizing things like flexbox makes that easier, sometimes it's just not enough. This is where media queries come in handy. 
 
+## Meta Viewport
+
+- To enable responsive layouts for a HTML page, we must first apply the meta viewport tag:
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1">
+```
+
+- This tells the browser to conform the rendered page to the width of the device.
+- You can read more about this [here on MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag).
+
 ## What is a Media Query? 
 
 A media query is a CSS rule that was introduced when CSS3 came out, and its syntax is as follows: 
@@ -69,7 +80,7 @@ Now that we know a little bit about media queries, let's check it out in action!
 
 ## Activity 
 
-Now it's your turn to play around with media queries! Try to recreate the following simple responsive design wireframes. The images on the left represent the browser at desktop width while the images on the right represent the same browser but at mobile width. Feel free to choose whichever one you want to start with, just note you will need to make three separate html and css files for each different one! 
+Now it's your turn to play around with media queries! Try to recreate the following responsive design wireframes. The images on the left represent the browser at desktop width while the images on the right represent the same browser but at mobile width. Feel free to choose whichever one you want to start with, just note you will need to make three separate html and css files for each different one! 
 
 ![](https://i.imgur.com/NZ0moP0.png)
 
