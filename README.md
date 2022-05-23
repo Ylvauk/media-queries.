@@ -82,6 +82,8 @@ Now that we know a little bit about media queries, let's check it out in action!
 
 Now it's your turn to play around with media queries! Try to recreate the following responsive design wireframes. The images on the left represent the browser at desktop width while the images on the right represent the same browser but at mobile width. Feel free to choose whichever one you want to start with, just note you will need to make three separate html and css files for each different one! 
 
+**Important: Remember to add the viewport `meta` tag to your HTML head so that your document responds to different browser widths!**
+
 ![](https://i.imgur.com/NZ0moP0.png)
 
 
